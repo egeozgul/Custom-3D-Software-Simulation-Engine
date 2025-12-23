@@ -1,4 +1,4 @@
-# Custom 3D Simulation & Rendering Engine
+# Custom 3D Rendering & Physics Simulation Engine
 
 This is a **C++-based software rendering and physics simulation engine** built entirely from scratch to maintain full control over correctness, determinism, and performance. It includes everything from **triangle rasterization** and **3D projection algorithms** to basic utilities like **matrix operations** and **font rendering**, all implemented without relying on external libraries.
 
